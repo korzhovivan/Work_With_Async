@@ -1,0 +1,7 @@
+C:\Users\Korzhov Ivan\source\repos\Dining Philosofers\Dining Philosofers\bin\Debug\Dining Philosofers.exe.config
+C:\Users\Korzhov Ivan\source\repos\Dining Philosofers\Dining Philosofers\bin\Debug\Dining Philosofers.exe
+C:\Users\Korzhov Ivan\source\repos\Dining Philosofers\Dining Philosofers\bin\Debug\Dining Philosofers.pdb
+C:\Users\Korzhov Ivan\source\repos\Dining Philosofers\Dining Philosofers\obj\Debug\Dining Philosofers.csprojAssemblyReference.cache
+C:\Users\Korzhov Ivan\source\repos\Dining Philosofers\Dining Philosofers\obj\Debug\Dining Philosofers.csproj.CoreCompileInputs.cache
+C:\Users\Korzhov Ivan\source\repos\Dining Philosofers\Dining Philosofers\obj\Debug\Dining Philosofers.exe
+C:\Users\Korzhov Ivan\source\repos\Dining Philosofers\Dining Philosofers\obj\Debug\Dining Philosofers.pdb
